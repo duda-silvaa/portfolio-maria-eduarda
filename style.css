@@ -400,7 +400,7 @@ span{
         padding: 1rem 3%;
         background-color: var(--second-bg-color);
         backdrop-filter: blur(20px);
-        border-bottom-left-radius: 2rem;
+        border-bottom-left-radius: 1rem;
         border-left: 2px solid var(--main-color);
         border-bottom: 2px solid var(--main-color);
         display: none;
